@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Programlol\\server\\Mobaserver\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9795794D-29B1-4630-A172-6DF03AC9D662}|ConsoleApp1\\Mobaserver.csproj|f:\\programlol\\server\\mobaserver\\consoleapp1\\net\\usocket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9795794D-29B1-4630-A172-6DF03AC9D662}|ConsoleApp1\\Mobaserver.csproj|solutionrelative:consoleapp1\\net\\usocket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9795794D-29B1-4630-A172-6DF03AC9D662}|ConsoleApp1\\Mobaserver.csproj|f:\\programlol\\server\\mobaserver\\consoleapp1\\gamemodule\\battlemodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9795794D-29B1-4630-A172-6DF03AC9D662}|ConsoleApp1\\Mobaserver.csproj|solutionrelative:consoleapp1\\gamemodule\\battlemodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9795794D-29B1-4630-A172-6DF03AC9D662}|ConsoleApp1\\Mobaserver.csproj|f:\\programlol\\server\\mobaserver\\consoleapp1\\gamemodule\\roommodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9795794D-29B1-4630-A172-6DF03AC9D662}|ConsoleApp1\\Mobaserver.csproj|solutionrelative:consoleapp1\\gamemodule\\roommodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9795794D-29B1-4630-A172-6DF03AC9D662}|ConsoleApp1\\Mobaserver.csproj|f:\\programlol\\server\\mobaserver\\consoleapp1\\net\\uclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9795794D-29B1-4630-A172-6DF03AC9D662}|ConsoleApp1\\Mobaserver.csproj|solutionrelative:consoleapp1\\net\\uclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9795794D-29B1-4630-A172-6DF03AC9D662}|ConsoleApp1\\Mobaserver.csproj|f:\\programlol\\server\\mobaserver\\consoleapp1\\room\\roomentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9795794D-29B1-4630-A172-6DF03AC9D662}|ConsoleApp1\\Mobaserver.csproj|solutionrelative:consoleapp1\\room\\roomentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9795794D-29B1-4630-A172-6DF03AC9D662}|ConsoleApp1\\Mobaserver.csproj|f:\\programlol\\server\\mobaserver\\consoleapp1\\helper\\jsonhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9795794D-29B1-4630-A172-6DF03AC9D662}|ConsoleApp1\\Mobaserver.csproj|solutionrelative:consoleapp1\\helper\\jsonhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9795794D-29B1-4630-A172-6DF03AC9D662}|ConsoleApp1\\Mobaserver.csproj|f:\\programlol\\server\\mobaserver\\consoleapp1\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9795794D-29B1-4630-A172-6DF03AC9D662}|ConsoleApp1\\Mobaserver.csproj|solutionrelative:consoleapp1\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9795794D-29B1-4630-A172-6DF03AC9D662}|ConsoleApp1\\Mobaserver.csproj|f:\\programlol\\server\\mobaserver\\consoleapp1\\net\\bufferfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9795794D-29B1-4630-A172-6DF03AC9D662}|ConsoleApp1\\Mobaserver.csproj|solutionrelative:consoleapp1\\net\\bufferfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9795794D-29B1-4630-A172-6DF03AC9D662}|ConsoleApp1\\Mobaserver.csproj|f:\\programlol\\server\\mobaserver\\consoleapp1\\net\\bufferentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9795794D-29B1-4630-A172-6DF03AC9D662}|ConsoleApp1\\Mobaserver.csproj|solutionrelative:consoleapp1\\net\\bufferentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RoomEntity.cs",
+              "DocumentMoniker": "F:\\Programlol\\server\\Mobaserver\\ConsoleApp1\\Room\\RoomEntity.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Room\\RoomEntity.cs",
+              "ToolTip": "F:\\Programlol\\server\\Mobaserver\\ConsoleApp1\\Room\\RoomEntity.cs",
+              "RelativeToolTip": "ConsoleApp1\\Room\\RoomEntity.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T13:21:54.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RoomModule.cs",
+              "DocumentMoniker": "F:\\Programlol\\server\\Mobaserver\\ConsoleApp1\\GameModule\\RoomModule.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\GameModule\\RoomModule.cs",
+              "ToolTip": "F:\\Programlol\\server\\Mobaserver\\ConsoleApp1\\GameModule\\RoomModule.cs",
+              "RelativeToolTip": "ConsoleApp1\\GameModule\\RoomModule.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAgwAEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T14:15:43.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JsonHelper.cs",
+              "DocumentMoniker": "F:\\Programlol\\server\\Mobaserver\\ConsoleApp1\\Helper\\JsonHelper.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Helper\\JsonHelper.cs",
+              "ToolTip": "F:\\Programlol\\server\\Mobaserver\\ConsoleApp1\\Helper\\JsonHelper.cs",
+              "RelativeToolTip": "ConsoleApp1\\Helper\\JsonHelper.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAA8wBQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T13:24:59.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BattleModule.cs",
+              "DocumentMoniker": "F:\\Programlol\\server\\Mobaserver\\ConsoleApp1\\GameModule\\BattleModule.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\GameModule\\BattleModule.cs",
+              "ToolTip": "F:\\Programlol\\server\\Mobaserver\\ConsoleApp1\\GameModule\\BattleModule.cs",
+              "RelativeToolTip": "ConsoleApp1\\GameModule\\BattleModule.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAADwvxoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T12:34:18.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "USocket.cs",
+              "DocumentMoniker": "F:\\Programlol\\server\\Mobaserver\\ConsoleApp1\\Net\\USocket.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Net\\USocket.cs",
+              "ToolTip": "F:\\Programlol\\server\\Mobaserver\\ConsoleApp1\\Net\\USocket.cs",
+              "RelativeToolTip": "ConsoleApp1\\Net\\USocket.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T04:24:02.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BufferEntity.cs",
+              "DocumentMoniker": "F:\\Programlol\\server\\Mobaserver\\ConsoleApp1\\Net\\BufferEntity.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Net\\BufferEntity.cs",
+              "ToolTip": "F:\\Programlol\\server\\Mobaserver\\ConsoleApp1\\Net\\BufferEntity.cs",
+              "RelativeToolTip": "ConsoleApp1\\Net\\BufferEntity.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T04:25:22.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UClient.cs",
+              "DocumentMoniker": "F:\\Programlol\\server\\Mobaserver\\ConsoleApp1\\Net\\UClient.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Net\\UClient.cs",
+              "ToolTip": "F:\\Programlol\\server\\Mobaserver\\ConsoleApp1\\Net\\UClient.cs",
+              "RelativeToolTip": "ConsoleApp1\\Net\\UClient.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T04:24:28.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Bufferfactory.cs",
+              "DocumentMoniker": "F:\\Programlol\\server\\Mobaserver\\ConsoleApp1\\Net\\Bufferfactory.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Net\\Bufferfactory.cs",
+              "ToolTip": "F:\\Programlol\\server\\Mobaserver\\ConsoleApp1\\Net\\Bufferfactory.cs",
+              "RelativeToolTip": "ConsoleApp1\\Net\\Bufferfactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T12:53:01.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "F:\\Programlol\\server\\Mobaserver\\ConsoleApp1\\GameManager.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\GameManager.cs",
+              "ToolTip": "F:\\Programlol\\server\\Mobaserver\\ConsoleApp1\\GameManager.cs",
+              "RelativeToolTip": "ConsoleApp1\\GameManager.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T05:38:03.97Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

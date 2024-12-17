@@ -1,0 +1,14 @@
+F:\项目lol\server\Mobaserver\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+F:\项目lol\server\Mobaserver\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+F:\项目lol\server\Mobaserver\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+F:\项目lol\server\Mobaserver\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+F:\项目lol\server\Mobaserver\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+F:\项目lol\server\Mobaserver\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+F:\项目lol\server\Mobaserver\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+F:\项目lol\server\Mobaserver\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+F:\项目lol\server\Mobaserver\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+F:\项目lol\server\Mobaserver\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+F:\项目lol\server\Mobaserver\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+F:\项目lol\server\Mobaserver\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+F:\项目lol\server\Mobaserver\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+F:\项目lol\server\Mobaserver\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
